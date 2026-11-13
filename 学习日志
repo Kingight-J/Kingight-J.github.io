@@ -15,8 +15,9 @@
 Blender实践。【进行中】
 
 #2026/11/13
-学习梯度下降。【进行中】
+复习了梯度下降。
 用comfy部署了minimax h3.
   -update： 设备不支持720p5s的生成-模型需求的内存太大。考虑api模式，但是仍然成本比较高。
+
 待学习：Every Data Structure Simply Explained in 25 Minutes! - https://www.youtube.com/watch?v=vVL6NFzr0Rg
-Learn 97% of Harvard's CS50 in 25 minutes
+Learn 97% of Harvard's CS50 in 25 minutes 【10/25】
